@@ -1,0 +1,2 @@
+https://stackoverflow.com/questions/33160262/linear-programming-simplex-lp-pulp
+https://stackoverflow.com/questions/45801494/converting-excel-solver-solution-to-python-pulp
